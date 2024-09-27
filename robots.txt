@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wortater.github.io/sitemap.wortater.gz
+Sitemap: https://wortater.github.io/app/sitemap.wortater.gz
+Sitemap: https://wortater.github.io/assets/sitemap.wortater.gz
+Sitemap: https://wortater.github.io/css/sitemap.wortater.gz
+Sitemap: https://wortater.github.io/data/sitemap.wortater.gz
+Sitemap: https://wortater.github.io/includes/sitemap.wortater.gz
+Sitemap: https://wortater.github.io/item/sitemap.wortater.gz
+Sitemap: https://wortater.github.io/src/sitemap.wortater.gz
